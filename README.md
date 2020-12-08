@@ -1,4 +1,4 @@
-# OpenAudio
+# Awesome OpenSound
 Various Audio Process Baselines
 
 ## Task 1: Sound Event Detection and Localization
@@ -15,5 +15,9 @@ Various Audio Process Baselines
 ## Dataset
 
 1. Google AudioSet, [link](https://research.google.com/audioset/)
+
+## Position Encoding
+
+1. On Position Embeddings in BERT. [paper link](https://openreview.net/pdf?id=onxoVA9FxMw)
 
 
