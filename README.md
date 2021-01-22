@@ -14,6 +14,10 @@ Various Audio Process Baselines
 4. Arun Balajee Vasudevan et al. Semantic Object Prediction and Spatial Sound Super-Resolution with Binaural Sounds. ECCV 2020. [paper link](https://www.trace.ethz.ch/publications/2020/sound_perception/index.html)
 5. Changan Chen et al. Audio-Visual Waypoints for Navigation.
 
+## Task 3: Sound Generation
+
+1. Wei Ping et al. WaveFlow: A Compact Flow-based Model for Raw Audio. ICML2020. [paper link](https://arxiv.org/pdf/1912.01219.pdf)
+
 ## Dataset
 
 1. Google AudioSet, [link](https://research.google.com/audioset/)
