@@ -33,7 +33,7 @@ Various Audio Process Baselines
 
 ## Permutation Invariant Training
 
-1. Dong Yu et al. Permutation Invariant Training of Deep Models for Speaker-Independent Multi-talker Speech Separation. [paper link] (https://arxiv.org/abs/1607.00325)
+1. Dong Yu et al. Permutation Invariant Training of Deep Models for Speaker-Independent Multi-talker Speech Separation. [paper link](https://arxiv.org/abs/1607.00325)
 
 ## Learning from Sound Raw Waveforms
 
