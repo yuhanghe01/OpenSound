@@ -31,4 +31,15 @@ Various Audio Process Baselines
 
 1. On Position Embeddings in BERT. [paper link](https://openreview.net/pdf?id=onxoVA9FxMw)
 
+## Permutation Invariant Training
+
+1. Dong Yu et al. Permutation Invariant Training of Deep Models for Speaker-Independent Multi-talker Speech Separation. [paper link] (https://arxiv.org/abs/1607.00325)
+
+## Learning from Sound Raw Waveforms
+
+1. Neil Zeghidour et al., Learning Filterbanks from Raw Speech for Phone Recognition. ICASSP 2018. [paper link] (https://arxiv.org/abs/1711.01161)
+2. Neil,Zeghidour et al., LEAF: A Learnable Frontend for Audio Classification. ICLR 2021. [paper link] (https://arxiv.org/abs/2101.08596)
+3. Paul-Gauthier Noe et al., CGCNN: Complex Gabor Convolutional Neural Network on Raw Speech. 2020. [paper link] (https://arxiv.org/abs/2002.04569)
+4. Yi Luo, Nima Mesgarani, Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2019. [paper link](https://arxiv.org/abs/1809.07454), [code](https://github.com/kaituoxu/Conv-TasNet).
+
 
