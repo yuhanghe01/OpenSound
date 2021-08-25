@@ -37,10 +37,10 @@ Various Audio Process Baselines
 
 ## Learning from Sound Raw Waveforms
 
-1. Neil Zeghidour et al., Learning Filterbanks from Raw Speech for Phone Recognition. ICASSP 2018. [paper link] (https://arxiv.org/abs/1711.01161)
-2. Neil,Zeghidour et al., LEAF: A Learnable Frontend for Audio Classification. ICLR 2021. [paper link] (https://arxiv.org/abs/2101.08596)
-3. Paul-Gauthier Noe et al., CGCNN: Complex Gabor Convolutional Neural Network on Raw Speech. 2020. [paper link] (https://arxiv.org/abs/2002.04569)
+1. Neil Zeghidour et al., Learning Filterbanks from Raw Speech for Phone Recognition. ICASSP 2018. [paper link](https://arxiv.org/abs/1711.01161)
+2. Neil,Zeghidour et al., LEAF: A Learnable Frontend for Audio Classification. ICLR 2021. [paper link](https://arxiv.org/abs/2101.08596)
+3. Paul-Gauthier Noe et al., CGCNN: Complex Gabor Convolutional Neural Network on Raw Speech. 2020. [paper link](https://arxiv.org/abs/2002.04569)
 4. Yi Luo, Nima Mesgarani, Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2019. [paper link](https://arxiv.org/abs/1809.07454), [code](https://github.com/kaituoxu/Conv-TasNet).
-5. Yuhang He et al. SoundDet: Polyphonic Moving Sound Event Detection and Localization from Raw Waveform. ICML21. [paper link] (http://proceedings.mlr.press/v139/he21b/he21b.pdf)
+5. Yuhang He et al. SoundDet: Polyphonic Moving Sound Event Detection and Localization from Raw Waveform. ICML21. [paper link](http://proceedings.mlr.press/v139/he21b/he21b.pdf)
 
 
