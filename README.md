@@ -43,4 +43,8 @@ Various Audio Process Baselines
 4. Yi Luo, Nima Mesgarani, Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2019. [paper link](https://arxiv.org/abs/1809.07454), [code](https://github.com/kaituoxu/Conv-TasNet).
 5. Yuhang He et al. SoundDet: Polyphonic Moving Sound Event Detection and Localization from Raw Waveform. ICML21. [paper link](http://proceedings.mlr.press/v139/he21b/he21b.pdf)
 
+## Sound + Vision Cross-Modality Perception
+
+1. R. Gao and K. Grauman, 2.5D Visual Sound. CVPR, 2019. [paper link](http://vision.cs.utexas.edu/projects/2.5D_visual_sound/)
+
 
