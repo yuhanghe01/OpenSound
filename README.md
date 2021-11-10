@@ -48,3 +48,8 @@ Various Audio Process Baselines
 1. R. Gao and K. Grauman, 2.5D Visual Sound. CVPR, 2019. [paper link](http://vision.cs.utexas.edu/projects/2.5D_visual_sound/)
 
 
+## Sound + Vision Researchers
+
+1. Ruohan Gao, [webpage](https://ai.stanford.edu/~rhgao/)
+
+
