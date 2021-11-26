@@ -46,7 +46,7 @@ Various Audio Process Baselines
 ## Sound + Vision Cross-Modality Perception
 
 1. R. Gao and K. Grauman, 2.5D Visual Sound. CVPR, 2019. [paper link](http://vision.cs.utexas.edu/projects/2.5D_visual_sound/)
-2. Valentina Sanguineti, et al., Audio-Visual Localization by Synthetic Acoustic Image Generation. AAAI, 2021. [paper link](file:///Users/yuhhe/Downloads/16354-Article%20Text-19848-1-2-20210518.pdf)
+2. Valentina Sanguineti, et al., Audio-Visual Localization by Synthetic Acoustic Image Generation. AAAI, 2021. [paper link](https://ojs.aaai.org/index.php/AAAI/article/view/16354)
 
 
 ## Sound + Vision Researchers
