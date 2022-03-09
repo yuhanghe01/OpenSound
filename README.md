@@ -48,6 +48,7 @@ Various Audio Process Baselines
 1. R. Gao and K. Grauman, 2.5D Visual Sound. CVPR, 2019. [paper link](http://vision.cs.utexas.edu/projects/2.5D_visual_sound/)
 2. Valentina Sanguineti, et al., Audio-Visual Localization by Synthetic Acoustic Image Generation. AAAI, 2021. [paper link](https://ojs.aaai.org/index.php/AAAI/article/view/16354)
 3. Triantafyllos Afouras, et al., Self-Supervised Learning of Audio-Visual Objects from Video. ECCV, 2020. [paper link](https://arxiv.org/pdf/2008.04237.pdf)
+4. Senthil Purushwalkam, et al., Audio-Visual Floorplan Reconstruction, ICCV  2021. [paper link](https://github.com/senthilps8/avmap)
 
 
 ## Sound + Vision Researchers
