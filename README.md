@@ -52,7 +52,8 @@ Various Audio Process Baselines
 5. Hu Di, Lichao Mou, Qingzhong Wang, Junyu Gao and Yuansheng Hua and Dejing Dou and Xiao Xiang Zhu, Ambient Sound Helps: Audivisual Crowd Counting in Extreme Conditions. arxiv preprint. 2020. [paper link](https://arxiv.org/pdf/2005.07097.pdf).
 
 ## Binaural Sound Generation,
-Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
+1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
+2. Alexander Richard, et al., Neural Synthesis of Binaural Speech From Mono Audio. ICLR 2021. [paper link](https://openreview.net/forum?id=uAX8q61EVRu)
 
 ## Sound + Vision Researchers
 
