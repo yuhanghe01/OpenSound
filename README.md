@@ -42,6 +42,7 @@ Various Audio Process Baselines
 3. Paul-Gauthier Noe et al., CGCNN: Complex Gabor Convolutional Neural Network on Raw Speech. 2020. [paper link](https://arxiv.org/abs/2002.04569)
 4. Yi Luo, Nima Mesgarani, Conv-TasNet: Surpassing Ideal Time-Frequency Magnitude Masking for Speech Separation. IEEE/ACM Transactions on Audio, Speech and Language Processing. 2019. [paper link](https://arxiv.org/abs/1809.07454), [code](https://github.com/kaituoxu/Conv-TasNet).
 5. Yuhang He et al. SoundDet: Polyphonic Moving Sound Event Detection and Localization from Raw Waveform. ICML21. [paper link](http://proceedings.mlr.press/v139/he21b/he21b.pdf)
+6. Yuhang He et al. SoundDoA: Learn Sound Source Direction of Arrival and Semantics from Sound Raw Waveforms. Interspeech 22.
 
 ## Sound + Vision Cross-Modality Perception
 
