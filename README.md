@@ -56,6 +56,9 @@ Various Audio Process Baselines
 1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
 2. Alexander Richard, et al., Neural Synthesis of Binaural Speech From Mono Audio. ICLR 2021. [paper link](https://openreview.net/forum?id=uAX8q61EVRu)
 
+## Neural Audio Effect
+1. Christian Steinmetz et al. Style transfer of audio effects with differentiable signal processing. Journal of the Audio Engineering Society (JAES). 2022. [paper link](https://www.christiansteinmetz.com/)
+
 ## Sound + Vision Researchers
 
 1. Ruohan Gao, [webpage](https://ai.stanford.edu/~rhgao/)
