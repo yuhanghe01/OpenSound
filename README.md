@@ -51,7 +51,7 @@ Various Audio Process Baselines
 3. Triantafyllos Afouras, et al., Self-Supervised Learning of Audio-Visual Objects from Video. ECCV, 2020. [paper link](https://arxiv.org/pdf/2008.04237.pdf)
 4. Senthil Purushwalkam, et al., Audio-Visual Floorplan Reconstruction, ICCV  2021. [paper link](https://github.com/senthilps8/avmap)
 5. Hu Di, Lichao Mou, Qingzhong Wang, Junyu Gao and Yuansheng Hua and Dejing Dou and Xiao Xiang Zhu, Ambient Sound Helps: Audivisual Crowd Counting in Extreme Conditions. arxiv preprint. 2020. [paper link](https://arxiv.org/pdf/2005.07097.pdf).
-6. 
+6. Zhenyu Tang et al., GWA: A Large High-Quality Acoustic Dataset for Audio Processing. SIGGRAPH 2022. [project site](https://gamma.umd.edu/pro/sound/gwa)
 
 ## Binaural Sound Generation,
 1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
