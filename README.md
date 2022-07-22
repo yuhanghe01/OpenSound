@@ -21,6 +21,7 @@ Various Audio Process Baselines
 ## Dataset
 
 1. Google AudioSet, [link](https://research.google.com/audioset/)
+2. GWA, [link](https://gamma.umd.edu/publication/835)
 
 ## Tools
 
