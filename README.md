@@ -54,6 +54,8 @@ Various Audio Process Baselines
 5. Hu Di, Lichao Mou, Qingzhong Wang, Junyu Gao and Yuansheng Hua and Dejing Dou and Xiao Xiang Zhu, Ambient Sound Helps: Audivisual Crowd Counting in Extreme Conditions. arxiv preprint. 2020. [paper link](https://arxiv.org/pdf/2005.07097.pdf).
 6. Zhenyu Tang et al., GWA: A Large High-Quality Acoustic Dataset for Audio Processing. SIGGRAPH 2022. [project site](https://gamma.umd.edu/pro/sound/gwa)
 7. Changan Chen et al., Visual Acoustic Matching. CVPR 2022. [paper link](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Visual_Acoustic_Matching_CVPR_2022_paper.pdf)
+8. Abdelrahman Younes et al., Catch Me If You Hear Me: Audio-Visual Navigation in Complex
+Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://dav-nav.cs.uni-freiburg.de/)
 
 ## Binaural Sound Generation,
 1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
