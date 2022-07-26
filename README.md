@@ -56,6 +56,7 @@ Various Audio Process Baselines
 7. Changan Chen et al., Visual Acoustic Matching. CVPR 2022. [paper link](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Visual_Acoustic_Matching_CVPR_2022_paper.pdf)
 8. Abdelrahman Younes et al., Catch Me If You Hear Me: Audio-Visual Navigation in Complex
 Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://dav-nav.cs.uni-freiburg.de/)
+9. Yudong Guo et al., AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis. ICCV19. [Gihub](https://github.com/YudongGuo/AD-NeRF)
 
 ## Binaural Sound Generation,
 1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
