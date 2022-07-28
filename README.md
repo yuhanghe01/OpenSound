@@ -67,6 +67,9 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 ## Neural Audio Effect
 1. Christian Steinmetz et al. Style transfer of audio effects with differentiable signal processing. Journal of the Audio Engineering Society (JAES). 2022. [paper link](https://www.christiansteinmetz.com/)
 
+## Sound Propagation Process
+1. Samuel Siltanen et al., The room acoustic rendering equation. The Journal of the Acoustical Society of America. 2007. [paper link](https://asa.scitation.org/doi/pdf/10.1121/1.2766781)
+
 ## Sound + Vision Researchers
 
 1. Ruohan Gao, [webpage](https://ai.stanford.edu/~rhgao/)
