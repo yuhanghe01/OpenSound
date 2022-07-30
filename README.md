@@ -58,6 +58,9 @@ Various Audio Process Baselines
 Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://dav-nav.cs.uni-freiburg.de/)
 9. Yudong Guo et al., AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis. ICCV19. [Gihub](https://github.com/YudongGuo/AD-NeRF)
 
+## Dynamic NeRF
+1. Chen Gao et al., Dynamic View Synthesis from Dynamic Monocular Video. ICCV, 2021. [project page](https://free-view-video.github.io)
+
 ## Binaural Sound Generation,
 1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
 2. Alexander Richard, et al., Neural Synthesis of Binaural Speech From Mono Audio. ICLR 2021. [paper link](https://openreview.net/forum?id=uAX8q61EVRu)
