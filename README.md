@@ -60,6 +60,7 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 ## Dynamic NeRF
 1. Chen Gao et al., Dynamic View Synthesis from Dynamic Monocular Video. ICCV, 2021. [project page](https://free-view-video.github.io)
+2. BARF 🤮: Bundle-Adjusting Neural Radiance Fields. ICCV 21. [Github](https://github.com/chenhsuanlin/bundle-adjusting-NeRF)
 
 ## Binaural Sound Generation,
 1. Yichong, Leng, et al., BinauralGrad: A Two-Stage Conditional Diffusion Probabilistic Model for Binaural Audio Synthesis. ArXiv [paper link](https://arxiv.org/abs/2205.14807)
