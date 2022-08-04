@@ -15,6 +15,7 @@ Various Audio Process Baselines
 5. Changan Chen et al. Audio-Visual Waypoints for Navigation.
 6. F. Ribeiro, D. Florencio, D. Ba and C. Zhang, "Geometrically Constrained Room Modeling With Compact Microphone Arrays," in IEEE Transactions on Audio, Speech, and Language Processing, vol. 20, no. 5, pp. 1449-1460, July 2012, doi: 10.1109/TASL.2011.2180897.
 7. F. Antonacci et al., "Inference of Room Geometry From Acoustic Impulse Responses," in IEEE Transactions on Audio, Speech, and Language Processing, vol. 20, no. 10, pp. 2683-2695, Dec. 2012, doi: 10.1109/TASL.2012.2210877.
+8. Ivan Dokmanić, Acoustic echoes reveal room shape. PNAS, 2013. [paper link](https://www.pnas.org/doi/10.1073/pnas.1221464110#:~:text=Geometric%20relationships%20between%20the%20arrival,description%20of%20convex%20polyhedral%20rooms.).
 
 ## Task 3: Sound Generation
 
