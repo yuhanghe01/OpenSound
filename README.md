@@ -6,13 +6,15 @@ Various Audio Process Baselines
 1. An improved Event-Independent Network for Polyphonic Sound Event Localization and Detection (2020). [Github](https://github.com/yinkalario/EIN-SELD) 
 2. SELD-Net: Sound Event Localization and Detection of overlapping sources using convolutional recurrent neural network, IEEE Journal of Selected Topics in Signal Processing (JSTSP 2018). [Github](https://github.com/sharathadavanne/seld-dcase2020)
 
-## Task 2: Structure from Sound
+## Task 2: Room Acoustics
 
 1. Sebastian Thrun, Affine Structure from Sound. NIPS 2005, [paper link](https://papers.nips.cc/paper/2005/file/a7a3d70c6d17a73140918996d03c014f-Paper.pdf)
 2. Zhoutong Zhang et al. Shape and Material from Sound. NIPS 2017. [paper link](https://papers.nips.cc/paper/2017/file/f4552671f8909587cf485ea990207f3b-Paper.pdf)
 3. Miranda et al. Structure from Sound with Incomplete Data. ICASSP 2018. [paper link](https://ieeexplore.ieee.org/document/8462559)
 4. Arun Balajee Vasudevan et al. Semantic Object Prediction and Spatial Sound Super-Resolution with Binaural Sounds. ECCV 2020. [paper link](https://www.trace.ethz.ch/publications/2020/sound_perception/index.html)
 5. Changan Chen et al. Audio-Visual Waypoints for Navigation.
+6. F. Ribeiro, D. Florencio, D. Ba and C. Zhang, "Geometrically Constrained Room Modeling With Compact Microphone Arrays," in IEEE Transactions on Audio, Speech, and Language Processing, vol. 20, no. 5, pp. 1449-1460, July 2012, doi: 10.1109/TASL.2011.2180897.
+7. F. Antonacci et al., "Inference of Room Geometry From Acoustic Impulse Responses," in IEEE Transactions on Audio, Speech, and Language Processing, vol. 20, no. 10, pp. 2683-2695, Dec. 2012, doi: 10.1109/TASL.2012.2210877.
 
 ## Task 3: Sound Generation
 
