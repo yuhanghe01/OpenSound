@@ -78,6 +78,10 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 ## Sound Propagation Process
 1. Samuel Siltanen et al., The room acoustic rendering equation. The Journal of the Acoustical Society of America. 2007. [paper link](https://asa.scitation.org/doi/pdf/10.1121/1.2766781)
 
+## Embodied-AI research
+
+1. Vincent Cartillier, et al., Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views
+
 ## Sound + Vision Researchers
 
 1. Ruohan Gao, [webpage](https://ai.stanford.edu/~rhgao/)
