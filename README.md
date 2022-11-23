@@ -21,6 +21,10 @@ Various Audio Process Baselines
 
 1. Wei Ping et al. WaveFlow: A Compact Flow-based Model for Raw Audio. ICML2020. [paper link](https://arxiv.org/pdf/1912.01219.pdf)
 
+## Task 4: Sound Object Discussion
+
+1. Daniel Arteaga, et al., Multichannel-based learning for audio object extraction. ICASSP 21. [paper link](https://arxiv.org/pdf/2102.06142.pdf)
+
 ## Dataset
 
 1. Google AudioSet, [link](https://research.google.com/audioset/)
