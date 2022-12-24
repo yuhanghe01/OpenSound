@@ -86,8 +86,8 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 1. Vincent Cartillier, et al., Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views
 
-## Sound + Vision Researchers
+## Audio + Transformer
 
-1. Ruohan Gao, [webpage](https://ai.stanford.edu/~rhgao/)
+1. Sanyuan Chen et al., BEATS : Audio Pre-Training with Acoustic Tokenizers. 2022. [paper link](https://arxiv.org/pdf/2212.09058.pdf).
 
 
