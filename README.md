@@ -90,4 +90,8 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 1. Sanyuan Chen et al., BEATS : Audio Pre-Training with Acoustic Tokenizers. 2022. [paper link](https://arxiv.org/pdf/2212.09058.pdf).
 
+## Large Model on Audio Synthesis
+
+1. Andrea Agostinelli et al., MusicLM: Generating Music From Text. Arxiv 2301.11325. 2023.
+
 
