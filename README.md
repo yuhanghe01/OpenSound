@@ -84,7 +84,8 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 ## Embodied-AI research
 
-1. Vincent Cartillier, et al., Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views
+1. Vincent Cartillier, et al., Semantic MapNet: Building Allocentric Semantic Maps and Representations from Egocentric Views.
+2. Karen Yang, et al., Camera Pose Estimation and Localization with Active Audio Sensing.ECCV 2022.
 
 ## Audio + Transformer
 
