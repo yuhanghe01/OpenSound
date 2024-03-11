@@ -96,4 +96,8 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 1. Andrea Agostinelli et al., MusicLM: Generating Music From Text. Arxiv 2301.11325. 2023.
 
+## Audio-Driven Task
+
+1. Audio-Driven Motion Synthesis. Siggraph 23. [project link](https://www.speech.kth.se/research/listen-denoise-action/)
+
 
