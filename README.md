@@ -98,6 +98,6 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 ## Audio-Driven Task
 
-1. Audio-Driven Motion Synthesis. Siggraph 23. [project link](https://www.speech.kth.se/research/listen-denoise-action/)
+See [link](https://github.com/yuhanghe01/OpenSound/blob/master/AudioDrivenTask.md)
 
 
