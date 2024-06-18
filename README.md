@@ -100,4 +100,8 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 
 See [link](https://github.com/yuhanghe01/OpenSound/blob/master/AudioDrivenTask.md)
 
+## Audio-involved LLM
+
+See [link](https://github.com/yuhanghe01/OpenSound/blob/master/AudioLLM.md)
+
 
