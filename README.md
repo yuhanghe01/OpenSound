@@ -66,6 +66,7 @@ Various Audio Process Baselines
 Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://dav-nav.cs.uni-freiburg.de/)
 9. Yudong Guo et al., AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis. ICCV19. [Gihub](https://github.com/YudongGuo/AD-NeRF)
 10. Arda Senocak, et al., Less Can Be More: Sound Source Localization With a Classification Model. WACV2022. [paper link](https://openaccess.thecvf.com/content/WACV2022/papers/Senocak_Less_Can_Be_More_Sound_Source_Localization_With_a_Classification_WACV_2022_paper.pdf).
+11. Rishit Dagli, et al., SEE-2-SOUND: Zero-shot Spatial Environment-to-Spatial Sound. [project page](https://github.com/see2sound/see2sound).
 
 ## Dynamic NeRF
 1. Chen Gao et al., Dynamic View Synthesis from Dynamic Monocular Video. ICCV, 2021. [project page](https://free-view-video.github.io)
