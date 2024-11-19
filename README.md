@@ -30,6 +30,7 @@ Various Audio Process Baselines
 1. Google AudioSet, [link](https://research.google.com/audioset/)
 2. GWA, [link](https://gamma.umd.edu/publication/835)
 3. STARSS23: Audio-Visual Dataset. [link](https://zenodo.org/records/7880637). The paper publication: Kazuki Shimada, et al., STARSS23: An Audio-Visual Dataset of Spatial Recordings of Real Scenes with Spatiotemporal Annotations of Sound Events. NeurIPS 2023.
+4. Clotho Dataset [Link](https://zenodo.org/records/3490684)
 
 ## Tools
 
