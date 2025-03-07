@@ -4,3 +4,4 @@
 4. Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming. [GitHub](https://github.com/gpt-omni/mini-omni)
 5. Fugatto 1: Foundational Generative Audio Transformer Opus 1. [Project Page](https://fugatto.github.io/).
 6. Moshi: a speech-text foundation model for real time dialogue. [GitHub](https://github.com/kyutai-labs/moshi).
+7. AudioReasoner: Improving Reasoning Capability in Large Audio Language Models. [Project Page](https://xzf-thu.github.io/Audio-Reasoner/)
