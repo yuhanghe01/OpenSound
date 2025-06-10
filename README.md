@@ -79,7 +79,8 @@ Unmapped Environments with Moving Sounds. arXiv:2111.14843. [paper link](http://
 3. Sijia Li et al., Binaural Audio Generating via Multi-Task Learning. ACM SIGGRAPH Asia. 2021. [project site](https://gamma.umd.edu/publication/835)
 4. Arun Balajee Vasudevan et al., Sound and Visual Representation Learning with Multiple Pretraining Tasks, CVPR 22. [paper link](https://openaccess.thecvf.com/content/CVPR2022/papers/Vasudevan_Sound_and_Visual_Representation_Learning_With_Multiple_Pretraining_Tasks_CVPR_2022_paper.pdf)
 5. Alon Levkovitch et al., Zero-Shot Mono-to-Binaural Speech Synthesis. 2024. [paper link](https://arxiv.org/abs/2412.08356)
-6. Mingfei Chen et al., SoundVista: Novel-View Ambient Sound Synthesis via Visual-Acoustic Binding. CVPR 2025. [project site](https://yoyomimi.github.io/SoundVista.github.io/) 
+6. Mingfei Chen et al., SoundVista: Novel-View Ambient Sound Synthesis via Visual-Acoustic Binding. CVPR 2025. [project site](https://yoyomimi.github.io/SoundVista.github.io/)
+7. Huadai Liu et al., OmniAudio: Generating Spatial Audio from 360-Degree Video. ICML2025. [project site](https://omniaudio-360v2sa.github.io/).
 
 ## Neural Audio Effect
 1. Christian Steinmetz et al. Style transfer of audio effects with differentiable signal processing. Journal of the Audio Engineering Society (JAES). 2022. [paper link](https://www.christiansteinmetz.com/)
